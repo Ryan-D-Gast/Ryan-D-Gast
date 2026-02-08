@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ryan-D-Gast
-- 👀 I’m interested in Aerospace, Astrodynamics, Computer Simulation, and Mission Design.
 - 📫 How to reach me on linked in: https://www.linkedin.com/in/ryan-gast-676425250/
 - ⚡ Fun fact: My first programming language I learned was Python!
 
